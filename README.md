@@ -5,9 +5,6 @@
 
 - 📝 I’m currently studying in Netaji Subhas University of Technology **pursuing B.tech in ECE/AIML branch**
 
-- 🔭 I’m currently working on **Finstop**
-
-- 🌱 I’m currently learning **Front-end and Back-end Development**
 
 - 📫 How to reach me **viditjain46@gmail.com**
 
